@@ -1,6 +1,12 @@
 ![banner](https://raw.githubusercontent.com/todtk/todtk/main/banner.jpg)
 
 ### Hi, I'm Sergey, junior Python developer.
+- Telegram: [@todtk](https://t.me/todtk)
+- Discord: [todtk#8358](http://discordapp.com/users/173463742388895744)
+
+###############################################
+
+### List of software and tools in which I work.
 
 <b>Operating Systems</b>
 
