@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sergey, junior Python developer.
 - Telegram: [@todtk](https://t.me/todtk)
-- Discord: [todtk#8358](http://discordapp.com/users/173463742388895744)
+- Discord: [todtk](http://discordapp.com/users/173463742388895744)
 
 .
 
