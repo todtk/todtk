@@ -17,7 +17,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d4?logo=VisualStudioCode&style=for-the-badge&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-e2df44?logo=PyCharm&style=for-the-badge&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/-intellij_idea-3f86f6?logo=intellij_idea&style=for-the-badge&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-intellij_idea-3f86f6?logo=intellijidea&style=for-the-badge&logoColor=black)
 
 <b>Data Version Control Systems & Sub Services</b>
 
