@@ -11,7 +11,7 @@
 <b>Operating Systems</b>
 
 ![Windows](https://img.shields.io/badge/-Windows-0078d4?logo=Windows&style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-dd4814?logo=Ubuntu&style=for-the-badge&logoColor=white)
 
 <b>Code Editors</b>
 
