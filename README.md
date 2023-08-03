@@ -15,14 +15,14 @@
 
 <b>Code Editors</b>
 
-![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d4?logo=VisualStudioCode&style=for-the-badge&logoColor=white)
-![pycharm](https://img.shields.io/badge/-PyCharm-81e66e?logo=PyCharm&style=for-the-badge&logoColor=black)
-![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d4?logo=VisualStudioCode&style=for-the-badge&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-e2df44?logo=PyCharm&style=for-the-badge&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/-intellij_idea-3f86f6?logo=intellij_idea&style=for-the-badge&logoColor=white)
 
 <b>Data Version Control Systems & Sub Services</b>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
 <b>Frameworks</b>
 
