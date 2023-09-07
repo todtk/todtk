@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/todtk/todtk/main/banner.jpg)
 
-### Hi, I'm Sergey, junior developer.
+### Hi, I'm Sergey.
 - Telegram: [@todtk](https://t.me/todtk)
 - Discord: [todtk](http://discordapp.com/users/173463742388895744)
 
