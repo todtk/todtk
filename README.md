@@ -11,6 +11,7 @@
 <b>Programming languages</b>
 
 ![Python](https://img.shields.io/badge/-Python-1e415e?logo=Python&style=for-the-badge&logoColor=ffdb50)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=ffdb50&color=black)
 
 <b>Frameworks</b>
 
